@@ -1,0 +1,12 @@
+{
+  "name": "symphony",
+  "version": "1.0.0",
+  "description": "Just a little playground with tonal.js and musical.js.",
+  "main": "index.js",
+  "repository": "https://github.com/srogers909/symphony",
+  "author": "Steven Rogers <steven.rogers909@gmail.com> (https://github.com/srogers909/)",
+  "license": "MIT",
+  "dependencies": {
+    "musical.js": "0.0.1"
+  }
+}
